@@ -1,7 +1,7 @@
 # Multi-modal collaborative learning encoder for improving the accuracy of music recommendation
 
 This is the repository of the method presented in the manuscript "Multi-modal collaborative learning encoder for improving the accuracy of
-music recommendation" by Wenjuan Gong, Qingshuang Yu, etc. The manuscript is submitted to a peer review journal. 
+music recommendation" by Wenjuan Gong, Qingshuang Yu, etc. The manuscript was submitted to a peer review journal. 
 
 ![avatar](./model.png)
 
