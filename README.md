@@ -31,3 +31,7 @@ Here is an exemplar video of a dancing avatar with background music recommended 
 The dancing motion sequences are originally from the ``Cha-cha'' category of MusicToDance dataset. 
 
 
+
+![Watch the video] https://user-images.githubusercontent.com/47975404/153193475-0b8803f6-8c34-4ba0-b3c4-d855240eddea.mp4
+
+
