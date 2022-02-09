@@ -25,3 +25,9 @@ We provide the pre-trained model in [Baidu Netdisk](https://pan.baidu.com/s/1vIL
 ## Others
 ./confusion_matrix.py Get the confusion matrix of the experimental results.\
 ./draw_video.py Generate the music video.
+
+## Multimedia Demo
+Here is an exemplar video of a dancing avatar with background music recommended using the proposed method. 
+The dancing motion sequences are originally from the ``Cha-cha'' category of MusicToDance dataset. 
+https://user-images.githubusercontent.com/47975404/153192680-f29e3b14-9871-4c08-9c4a-60f4b8f2d200.mp4
+
