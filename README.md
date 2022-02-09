@@ -14,6 +14,7 @@ music recommendation" by Wenjuan Gong, Qingshuang Yu, etc. The manuscript was su
   `python3 ./data_pre/emerged_bone_joint.py`Emerged the joint features and the bone features of the MusicToDance and AIST++ dataset.\
 3. The extracted features of the MusicToDance and AIST++ dataset held in the folder /data
 4. We provide the data in [Baidu Netdisk](https://pan.baidu.com/s/1fTV7uZs4oQZwfyY1bWFaTQ?pwd=prmi)  Extraction code ：prmi
+
 ## Train the model
 `python3 train_dual_ae_DWM.py --config_file ./configs/dual_ae_c.json`\
 ‘train’ parameter in the train_dual_ae_DWM.py determine whether to train or test.\
@@ -22,6 +23,9 @@ ensemble.py combines experimental result from joint and bone.\
 ./saved_models saved the experimental model.\
 We provide the pre-trained model in [Baidu Netdisk](https://pan.baidu.com/s/1vILpFAsCVsob6LMxWxy_tw?pwd=prmi ) Extraction code: prmi
 
+## To check the performance of the proposed method
+./confusion_matrix.py Get the confusion matrix of the experimental results.\
+./draw_video.py Generate the music video.
 
 ## Multimedia Demo
 Here is an exemplar video of a dancing avatar with background music recommended using the proposed method. 
@@ -29,7 +33,3 @@ The dancing motion sequences are originally from the ``Cha-cha'' category of Mus
 
 <video src= https://user-images.githubusercontent.com/47975404/153193475-0b8803f6-8c34-4ba0-b3c4-d855240eddea.mp4 width=180/>
 
-
-## Others
-./confusion_matrix.py Get the confusion matrix of the experimental results.\
-./draw_video.py Generate the music video.
