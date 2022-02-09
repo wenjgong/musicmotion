@@ -4,6 +4,7 @@ This is the repository of the method presented in the manuscript "Multi-modal co
 music recommendation" by Wenjuan Gong, Qingshuang Yu, etc. The manuscript was submitted to a peer review journal. 
 
 ![avatar](./net.png)
+Figure 1. The Overall Structure of the Proposed Method. 
 
 ## Data preparation
 1. Start by downloading the [MusicToDance](https://github.com/Music-to-dance-motion-synthesis/dataset) datasets and [AIST++](https://google.github.io/aistplusplus_dataset/download.html) datasets and put them under the /datasets folder.
@@ -27,8 +28,8 @@ We provide the pre-trained model in [Baidu Netdisk](https://pan.baidu.com/s/1vIL
 ./confusion_matrix.py Get the confusion matrix of the experimental results.\
 ./draw_video.py Generate the music video.
 
-## Multimedia Demo
-Here is an exemplar video of a dancing avatar with background music recommended using the proposed method. 
+## An exemplar multimedia demo
+Here is an exemplar video of a dancing avatar rendered using blender accompanied by background music recommended using the proposed method. 
 The dancing motion sequences are originally from the ``Cha-cha'' category of MusicToDance dataset. 
 
 <video src= https://user-images.githubusercontent.com/47975404/153193475-0b8803f6-8c34-4ba0-b3c4-d855240eddea.mp4 width=180/>
