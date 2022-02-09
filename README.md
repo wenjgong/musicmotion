@@ -22,9 +22,6 @@ ensemble.py combines experimental result from joint and bone.\
 ./saved_models saved the experimental model.\
 We provide the pre-trained model in [Baidu Netdisk](https://pan.baidu.com/s/1vILpFAsCVsob6LMxWxy_tw?pwd=prmi ) Extraction code: prmi
 
-## Others
-./confusion_matrix.py Get the confusion matrix of the experimental results.\
-./draw_video.py Generate the music video.
 
 ## Multimedia Demo
 Here is an exemplar video of a dancing avatar with background music recommended using the proposed method. 
@@ -33,3 +30,6 @@ The dancing motion sequences are originally from the ``Cha-cha'' category of Mus
 <video src= https://user-images.githubusercontent.com/47975404/153193475-0b8803f6-8c34-4ba0-b3c4-d855240eddea.mp4 width=180/>
 
 
+## Others
+./confusion_matrix.py Get the confusion matrix of the experimental results.\
+./draw_video.py Generate the music video.
