@@ -1,4 +1,4 @@
-# Multi-modal collaborative learning encoder for improving the accuracy of music recommendation
+# MCLEMM: Multi-modal Collaborative Learning Encoder for Enhanced Music Recommendation
 
 This is the repository of the method presented in the manuscript "Multi-modal collaborative learning encoder for improving the accuracy of
 music recommendation" by Wenjuan Gong, Qingshuang Yu, etc. The manuscript was submitted to a peer review journal. 
