@@ -3,7 +3,7 @@
 This is the repository of the method presented in the manuscript "Multi-modal collaborative learning encoder for improving the accuracy of
 music recommendation" by Wenjuan Gong, Qingshuang Yu, etc. The manuscript was submitted to a peer review journal. 
 
-![avatar](./model.png)
+![avatar](./net.png)
 
 ## Data preparation
 1. Start by downloading the [MusicToDance](https://github.com/Music-to-dance-motion-synthesis/dataset) datasets and [AIST++](https://google.github.io/aistplusplus_dataset/download.html) datasets and put them under the /datasets folder.
