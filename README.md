@@ -30,8 +30,6 @@ We provide the pre-trained model in [Baidu Netdisk](https://pan.baidu.com/s/1vIL
 Here is an exemplar video of a dancing avatar with background music recommended using the proposed method. 
 The dancing motion sequences are originally from the ``Cha-cha'' category of MusicToDance dataset. 
 
-
-
-![Watch the video] https://user-images.githubusercontent.com/47975404/153193475-0b8803f6-8c34-4ba0-b3c4-d855240eddea.mp4
+<video src= https://user-images.githubusercontent.com/47975404/153193475-0b8803f6-8c34-4ba0-b3c4-d855240eddea.mp4 width=180/>
 
 
